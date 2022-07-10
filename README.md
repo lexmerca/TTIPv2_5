@@ -4,6 +4,6 @@
 
 #### B. [International Chamber of Commerce (ICC)](https://github.com/lexmerca/TTIPv2_ToC/blob/main/README.md#b-international-chamber-of-commerce-icc)
 
-#### C. [United Nations Commission on International Trade Law (UNCITRAL)]()
+#### C. [United Nations Commission on International Trade Law (UNCITRAL)](https://github.com/lexmerca/TTIPv2_ToC/blob/main/README.md#c-united-nations-commission-on-international-trade-law-uncitral)
 
 #### D. [International Institute for the Unification of Private Law (UNIDROIT)](https://github.com/lexmerca/TTIPv2_ToC/blob/main/README.md#d-international-institute-for-the-unification-of-private-law-unidroit)
