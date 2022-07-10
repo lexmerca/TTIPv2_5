@@ -1,4 +1,4 @@
-## V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_ToC)
+## V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_ToC/blob/main/README.md#v-framing-institutional-sources-of-transnational-commercial-law)
 
 #### A. [Hague Conference on Private International Law (HCCH)]()
 
